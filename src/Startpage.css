@@ -1,0 +1,17 @@
+.Startpage{
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-style: italic;
+}
+
+.btn {
+    background-color: #C7EDF8; 
+    border-radius: 8px;
+    color: grey;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
